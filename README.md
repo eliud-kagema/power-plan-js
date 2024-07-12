@@ -1,9 +1,7 @@
 # Power Plant 
 
-
 ## Project Summary
 Within this repository, you'll find a project in JavaScript that utilizes Composition to add functionality to objects
-
 
 
 ## Description
